@@ -6,5 +6,5 @@ A través de nuestro excelente portafolio de servicio, queremos lograr un posici
 ## Modelo de Negocio
 ![alt text](https://github.com/jsvq85/imagenes/blob/master/canvas.png?raw=true)
 
-## Equipo
+## Equipo Arquitéctonicos III
 ![alt text](https://github.com/germancubillos/holamundo/blob/master/EquipoArquitectonicos3.jpg?raw=true)
