@@ -19,3 +19,7 @@ Funciones dentro del equipo:
     Distribuir y asignar tareas y responsabilidades.
 
     Coordinar y ejecutar reuniones conjuntamente con el gerente de proyecto con el fin de hacer seguimiento al avance de proyecto
+
+
+
+![alt text](https://github.com/germancubillos/holamundo/blob/master/Screenshot_4.jpg?raw=true)
